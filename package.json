@@ -1,6 +1,6 @@
 {
   "name": "kanrinin",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Everything-agnostic multi-tenanting helper",
   "main": "index.js",
   "scripts": {
