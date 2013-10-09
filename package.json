@@ -1,0 +1,25 @@
+{
+  "name": "kanrinin",
+  "version": "0.0.0",
+  "description": "Everything-agnostic multi-tenanting helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxxa/kanrinin.git"
+  },
+  "keywords": [
+    "multi-tenant",
+    "multi",
+    "tenant",
+    "manager",
+    "helper"
+  ],
+  "author": "Conrad Pankoff <deoxxa@fknsrs.biz> (http://www.fknsrs.biz/)",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/deoxxa/kanrinin/issues"
+  }
+}
